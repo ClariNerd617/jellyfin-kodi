@@ -9,7 +9,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Jellyfin for Kodi\n"
 "POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"PO-Revision-Date: 2026-02-23 01:33+0000\n"
+"PO-Revision-Date: 2026-02-23 01:35+0000\n"
 "Last-Translator: Lucas B <lbittoun@outlook.com>\n"
 "Language-Team: French <https://translate.jellyfin.org/projects/jellyfin/"
 "jellyfin-kodi/fr/>\n"
@@ -1277,19 +1277,17 @@ msgctxt "#33261"
 msgid "Off"
 msgstr "Éteint"
 
-#, fuzzy
 msgctxt "#33248"
 msgid "Skip mode"
-msgstr "Mode Sauter"
+msgstr "Mode Saut"
 
 msgctxt "#33249"
 msgid "Auto skip"
 msgstr "Saut Automatique"
 
-#, fuzzy
 msgctxt "#33250"
 msgid "Show skip button"
-msgstr "Afficher le Bouton Sauter"
+msgstr "Afficher le Bouton \"Sauter\""
 
 msgctxt "#33251"
 msgid "Ask every time"
@@ -1323,12 +1321,14 @@ msgctxt "#33258"
 msgid "Skip credits?"
 msgstr "Passer le générique ?"
 
-#, fuzzy
 msgctxt "#33259"
 msgid "Commercial"
 msgstr "Commercial(e)"
 
-#, fuzzy
 msgctxt "#33246"
 msgid "Segment Skipping"
-msgstr "Passer le segment"
+msgstr "Passage du segment"
+
+msgctxt "#33247"
+msgid "Enable segment skipping"
+msgstr "Activer le saut de segment"
