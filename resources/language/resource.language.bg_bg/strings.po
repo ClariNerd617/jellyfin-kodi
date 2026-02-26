@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-12-16 05:56+0000\n"
-"Last-Translator: Anton Antonov <antona@flutterint.com>\n"
+"PO-Revision-Date: 2026-02-26 13:32+0000\n"
+"Last-Translator: Theodor Dimov <theodor.dimov@gmail.com>\n"
 "Language-Team: Bulgarian <https://translate.jellyfin.org/projects/jellyfin/"
 "jellyfin-kodi/bg/>\n"
 "Language: bg_bg\n"
@@ -9,7 +9,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.14\n"
+"X-Generator: Weblate 5.15.1\n"
 
 msgctxt "#30506"
 msgid "Sync"
@@ -1189,3 +1189,53 @@ msgstr "384"
 msgctxt "#33213"
 msgid "Unlimited [default]"
 msgstr "Неограничен [по подразбиране]"
+
+#, fuzzy
+msgctxt "#33246"
+msgid "Segment Skipping"
+msgstr "Пропускане на сегменти"
+
+#, fuzzy
+msgctxt "#33247"
+msgid "Enable segment skipping"
+msgstr "Активиране на пропускането на сегменти"
+
+#, fuzzy
+msgctxt "#33248"
+msgid "Skip mode"
+msgstr "Режим на пропускане"
+
+#, fuzzy
+msgctxt "#33249"
+msgid "Auto skip"
+msgstr "Автоматично пропускане"
+
+#, fuzzy
+msgctxt "#33250"
+msgid "Show skip button"
+msgstr "Показване на бутон за пропускане"
+
+#, fuzzy
+msgctxt "#33251"
+msgid "Ask every time"
+msgstr "Питай всеки път"
+
+#, fuzzy
+msgctxt "#33252"
+msgid "Introduction"
+msgstr "Въведение"
+
+#, fuzzy
+msgctxt "#33253"
+msgid "Credits"
+msgstr "Финални надписи"
+
+#, fuzzy
+msgctxt "#33254"
+msgid "Recap"
+msgstr "Обобщение"
+
+#, fuzzy
+msgctxt "#33255"
+msgid "Preview"
+msgstr "Преглед"
