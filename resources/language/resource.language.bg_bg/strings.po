@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2026-02-26 13:32+0000\n"
+"PO-Revision-Date: 2026-02-26 14:39+0000\n"
 "Last-Translator: Theodor Dimov <theodor.dimov@gmail.com>\n"
 "Language-Team: Bulgarian <https://translate.jellyfin.org/projects/jellyfin/"
 "jellyfin-kodi/bg/>\n"
@@ -1239,3 +1239,28 @@ msgstr "Обобщение"
 msgctxt "#33255"
 msgid "Preview"
 msgstr "Преглед"
+
+#, fuzzy
+msgctxt "#33256"
+msgid "Skip"
+msgstr "Пропусни"
+
+#, fuzzy
+msgctxt "#33257"
+msgid "Skip intro?"
+msgstr "Пропускане на интрото?"
+
+#, fuzzy
+msgctxt "#33258"
+msgid "Skip credits?"
+msgstr "Пропускане на финалните надписи?"
+
+#, fuzzy
+msgctxt "#33259"
+msgid "Commercial"
+msgstr "Реклама"
+
+#, fuzzy
+msgctxt "#33261"
+msgid "Off"
+msgstr "Изключено"
